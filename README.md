@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=confiance22" alt="confiance22" /></a> </p>
 
-- 🔭 I’m currently working on [website](www.coffeeconnectcentre.com)
+- 🔭 I’m currently working on [website](https://www.coffeeconnectcenter.com/)
 
 - 🌱 I’m currently learning **frameworks,backend development, Testing, Game Engines, Programming,**
 
