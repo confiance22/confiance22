@@ -2,7 +2,7 @@
 
 # Confiance UFITAMAHORO
 
-### Full Stack Developer — Rwanda
+### Full Stack Developer Rwanda
 
 Building precise, structured interfaces and reliable backend systems.
 
