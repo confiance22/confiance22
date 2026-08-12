@@ -18,7 +18,7 @@ Building precise, structured interfaces and reliable backend systems.
 
 ## About
 
-I'm a Software Engineering student and Senior Full Stack Developer at **TekNest**, based in Kigali, Rwanda. I work across the stack — from responsive React frontends to Spring Boot and Node.js backends — and I'm drawn to building practical, locally relevant products.
+I'm a Software Engineering student and Senior Full Stack Developer at **TekNest**, based in Kigali, Rwanda. I work across the stack from responsive React frontends to Spring Boot and Node.js backends and I'm drawn to building practical, locally relevant products.
 
 Currently exploring: backend architecture, software testing, game engines, and systems programming.
 Open to collaborating on: JavaScript-heavy projects and full-stack builds.
